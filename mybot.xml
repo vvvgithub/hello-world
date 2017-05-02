@@ -1,5 +1,0 @@
-<context>
-    <input pattern="hi">
-        <output value="hello"/>
-    </input>
-</context>
